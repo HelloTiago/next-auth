@@ -15,10 +15,10 @@ yarn-error.log*
 node_modules
 
 # Build dirs
-.next
-/build
-/dist
-/www/build
+# .next
+# /build
+# /dist
+# /www/build
 
 # Generated files
 .docusaurus
